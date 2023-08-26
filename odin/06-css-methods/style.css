@@ -1,0 +1,21 @@
+.para{
+    font-weight: 900;
+    font-size: 24px;
+}
+.small-para{
+font-size: 15px;
+}
+.confirm{
+    background-color: green;
+    color: white;
+}
+.cancel{
+    background-color: white;
+}
+.text{
+    font-size: 20px;
+}
+.child{
+    font-weight: 900;
+    font-size: 15px;
+}
